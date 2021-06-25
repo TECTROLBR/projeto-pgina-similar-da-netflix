@@ -92,6 +92,17 @@ header nav a:hover{
     
 }
 
+.carousel-filme{
+    margin:40px 15px 15px 15px;
+    color:rgba(241, 45, 209, 100);
+
+}
+
+.carousel-serie{
+    margin:15px;
+    color:rgba(241, 45, 209, 100);
+}
+
 .botao:hover{
     background-color:rgba(94, 2, 81, 0.76);
     color: white;
@@ -102,6 +113,12 @@ header nav a:hover{
    margin-right: 7px;
 
 
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
 
 
